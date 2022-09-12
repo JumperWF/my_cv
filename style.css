@@ -1,0 +1,30 @@
+.wrapper {
+    border-style: double;
+    border-color: rgb(0, 0, 255);
+    border-width: 5px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    background-color: rgba(0, 255, 136, 0.482);
+        margin-top: 0px;
+    margin-bottom: 0px;
+}
+.margin{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.centered{
+    text-align: center;
+}
+.wide{
+    font-weight: 700;
+}
+.it{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
